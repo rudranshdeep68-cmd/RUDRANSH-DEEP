@@ -1,0 +1,10 @@
+{
+  "name": " Ultron",
+  "description": "A multilingual, voice-controlled AI assistant that manages PC tasks, monitors hardware telemetry, and provides real-time web intelligence.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
